@@ -11,3 +11,4 @@ redis:6
 valkey/valkey:8
 minio/minio
 ubuntu:22.04
+hub.icert.top/opensearchproject/opensearch:2.19.1
