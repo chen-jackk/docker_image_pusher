@@ -1,2 +1,2 @@
 #支持私库
-quay.io/feastdev/feature-server:0.59.0
+infiniflow/ragflow_deps:latest
